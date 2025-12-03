@@ -52,13 +52,13 @@ const BASE_POEMS: Poem[] = [
   },
   {
     id: 4,
-    title: "¿Que es suerte?",
+    title: "Eres la causa de mi locura",
     content: "Eres mi \"nada\" cuando la gente me encuentra con la\nmirada perdida y me pregunta: ¿En qué piensas?",
     date: "2025-12-03"
   },
   {
     id: 4,
-    title: "¿Que es suerte?",
+    title: "¿Acaso Dios no hizo mujer mas hermosa como tu?",
     content: "Tome un lápiz y empecé a escribir sin ningúna razón\npero al poco tiempo ella se convirtió en mi inspiración\mElla es mi más grande amor simplemente ella es y será\nla dueńa de mi corazón",
     date: "2025-12-03"
   }
