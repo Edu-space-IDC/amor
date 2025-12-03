@@ -1,0 +1,56 @@
+📷 COLOCA TUS FOTOS AQUÍ
+
+📍 UBICACIÓN: /public/photos/
+
+⚠️ IMPORTANTE: 
+Esta carpeta está VACÍA. Las fotos que menciona el archivo photos.json NO EXISTEN todavía.
+
+🔧 CÓMO AGREGAR TUS FOTOS:
+
+1. SELECCIONA las fotos que quieres mostrar
+
+2. SUBE las fotos AQUÍ en esta carpeta
+   Ejemplo: /public/photos/nosotros.jpg
+
+3. EDITA /data/photos.json y agrega la información:
+   {
+     "id": 2,
+     "imageUrl": "/photos/nosotros.jpg",
+     "caption": "Nuestro amor ❤️",
+     "date": "2024-12-03"
+   }
+
+⚠️ NOMBRES DE ARCHIVOS:
+
+✅ CORRECTO:
+   - nosotros.jpg
+   - primer-beso.jpg
+   - aniversario.png
+
+❌ INCORRECTO:
+   - nosotros juntos.jpg (espacios)
+   - 1er día.jpg (espacios y caracteres especiales)
+   - Foto_2024.JPG (mayúsculas innecesarias)
+
+📁 FORMATOS ACEPTADOS:
+   - .jpg
+   - .jpeg
+   - .png
+   - .gif
+
+📏 TAMAÑO RECOMENDADO:
+   - Máximo 3MB por foto
+   - Resolución: 1000x1000px es ideal
+   - Comprime en: https://tinypng.com
+
+🚀 EN DESARROLLO LOCAL (VS Code, tu computadora):
+   - Simplemente arrastra tus fotos a esta carpeta
+
+🚀 EN GITHUB:
+   1. Ve a tu repositorio
+   2. Navega a /public/photos/
+   3. Clic en "Add file" → "Upload files"
+   4. Arrastra tus fotos JPG/PNG
+   5. Commit changes
+
+¡Una vez que agregues tus fotos aquí, aparecerán en el álbum! 📸

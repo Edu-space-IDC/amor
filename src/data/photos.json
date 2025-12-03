@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "IMPORTED_PHOTO_1",
+    "caption": "Momentos especiales juntos ❤️",
+    "date": "2024-12-03"
+  },
+  {
+    "id": 2,
+    "imageUrl": "IMPORTED_PHOTO_2",
+    "caption": "Recuerdos inolvidables",
+    "date": "2024-02-14"
+  },
+  {
+    "id": 3,
+    "imageUrl": "/photos/foto3.jpg",
+    "caption": "Te amo mi amor",
+    "date": "2024-03-20"
+  }
+]

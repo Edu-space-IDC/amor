@@ -1,0 +1,52 @@
+🎵 COLOCA TUS ARCHIVOS MP3 AQUÍ
+
+📍 UBICACIÓN: /public/audios/
+
+⚠️ IMPORTANTE: 
+Esta carpeta está VACÍA. Los archivos MP3 que menciona el archivo songs.json NO EXISTEN todavía.
+
+🔧 CÓMO AGREGAR TUS CANCIONES:
+
+1. GRABA O PREPARA tu canción en formato MP3
+
+2. SUBE el archivo MP3 AQUÍ en esta carpeta
+   Ejemplo: /public/audios/mi-cancion.mp3
+
+3. EDITA /data/songs.json y agrega la información:
+   {
+     "id": 3,
+     "title": "Mi Canción",
+     "description": "Para ti con amor",
+     "audioUrl": "/audios/mi-cancion.mp3",
+     "date": "2024-12-03"
+   }
+
+⚠️ NOMBRES DE ARCHIVOS:
+
+✅ CORRECTO:
+   - mi-cancion.mp3
+   - te-amo.mp3
+   - para-ti.mp3
+
+❌ INCORRECTO:
+   - mi cancion.mp3 (espacios)
+   - canción.mp3 (tildes)
+   - MiCancion.mp3 (mayúsculas)
+
+📁 EJEMPLOS DE ARCHIVOS QUE DEBERÍAS TENER:
+
+Según tu /data/songs.json actual, necesitas:
+   - cancion1.mp3
+   - cancion2.mp3
+
+🚀 EN DESARROLLO LOCAL (VS Code, tu computadora):
+   - Simplemente arrastra tus MP3 a esta carpeta
+
+🚀 EN GITHUB:
+   1. Ve a tu repositorio
+   2. Navega a /public/audios/
+   3. Clic en "Add file" → "Upload files"
+   4. Arrastra tus MP3
+   5. Commit changes
+
+¡Una vez que agregues tus MP3 aquí, el reproductor funcionará! 🎵
